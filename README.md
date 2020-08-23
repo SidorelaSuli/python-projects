@@ -1,2 +1,2 @@
 # python-projects
-Learning Python through projects
+Learning Python
